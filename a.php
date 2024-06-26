@@ -1,4 +1,3 @@
-@ -0,0 +1,10 @@
 #!/usr/bin/php
 <?php
 foreach (file('/usr/share/dict/words') as $line) {
