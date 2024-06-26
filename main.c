@@ -1,4 +1,3 @@
-@ -0,0 +1,45 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
